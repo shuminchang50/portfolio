@@ -1,0 +1,37 @@
+{
+	"notes":[
+		"A JSON file always starts with either an array [] or an object {}.",
+		"JSON files cannot have comments. So write any comments you want as strings in this array.",
+		"Commas go between items in an array or object, but there should never be a trailing comma.",
+		"All property names must be inside quotation marks.",
+		"All string quotation marks must be double quotes.",
+		"()parentheses, {} curly braces, []square brackets <> angle brackets"
+	],
+	"users":[
+		{
+			"name":"Shumin",
+			"type":"Chang",
+			
+			"email":"s208h3556ko@gmail.com",
+			"classes":[601,608,617]
+		},
+		{   "name":"Iting",
+			"type":"Chen",
+
+			"email":"tianac1108@gmail.com",
+			"classes":[608]
+		},
+		{
+			"name":"Mandy",
+			"type":"Zhang",
+			
+			"email":"mzhang5155@gmail.com",
+			"classes":[608]
+		}
+	]
+
+
+
+
+
+}
